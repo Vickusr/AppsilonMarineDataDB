@@ -1,13 +1,5 @@
 # AppsilonMarineData
-My code submission for the Appsilon Marine Data
-
-My non-SQL submission is hosted here:
-[shinyapps.io](https://vickus-botha.shinyapps.io/AppsilonMarineData/)
-
-The Github Repo for non-SQL:
-[Github](https://github.com/Vickusr/AppsilonMarineData/)
-
-There is also a different solution that works with `SQLite` (this repo). 
+My code submission for the Appsilon Marine Data - SQL solution
 
 Hosted here:
 Github: [Github](https://github.com/Vickusr/AppsilonMarineDataDB)
@@ -15,6 +7,14 @@ Github: [Github](https://github.com/Vickusr/AppsilonMarineDataDB)
 *Please remember to unzip the `ships.7z` so that the DB shows as  `ships.db` in the `data/ships.db` directory*
 
 shinyapps.io: [shinyapps.io](https://vickus-botha.shinyapps.io/AppsilonMarineDataDB/)
+
+## There is also a non-SQL solution:
+Hosted here:
+[shinyapps.io](https://vickus-botha.shinyapps.io/AppsilonMarineData/)
+
+The non-SQL Github Repo:
+[Github](https://github.com/Vickusr/AppsilonMarineData/)
+
 
 For more context on this see the **Performance Testing** heading
 
