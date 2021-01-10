@@ -1,0 +1,18 @@
+Package: AppsilonShipApp
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Vickus",
+           family = "Botha",
+           role = c("aut", "cre"),
+           email = "vickus.r.botha@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Shiny app developed to find longest distance between two consecutive points, as part of the recruitment process.
+License: None
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
