@@ -1,14 +1,13 @@
 # AppsilonMarineData
 My code submission for the Appsilon Marine Data - SQL solution
+Hosted here: 
+[shinyapps.io](https://vickus-botha.shinyapps.io/AppsilonMarineDataDB/)
 
-Hosted here:
 Github: [Github](https://github.com/Vickusr/AppsilonMarineDataDB)
 
 *Please remember to unzip the `ships.7z` so that the DB shows as  `ships.db` in the `data/ships.db` directory*
 
-shinyapps.io: [shinyapps.io](https://vickus-botha.shinyapps.io/AppsilonMarineDataDB/)
-
-## There is also a non-SQL solution:
+### There is also a non-SQL solution:
 Hosted here:
 [shinyapps.io](https://vickus-botha.shinyapps.io/AppsilonMarineData/)
 
