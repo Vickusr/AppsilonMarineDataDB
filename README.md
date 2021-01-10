@@ -6,7 +6,10 @@ My non-SQL submission is hosted here:
 
 There is also a different solution that works with `SQLite`. 
 Hosted here:
-Github: [Github](https://github.com/Vickusr/AppsilonMarineDataDB) - please remember to unzip the `ships.7z` so that the DB shows as  `ships.db` in the `data/ships.db` directory
+Github: [Github](https://github.com/Vickusr/AppsilonMarineDataDB)
+
+Please remember to unzip the `ships.7z` so that the DB shows as  `ships.db` in the `data/ships.db` directory
+
 shinyapps.io: [shinyapps.io](https://vickus-botha.shinyapps.io/appsilonmarinedatadb/)
 
 For more context on this see the **Performance Testing** heading
