@@ -5,7 +5,7 @@ Hosted here:
 [shinyapps.io](https://vickus-botha.shinyapps.io/AppsilonMarineDataDB/)
 
 Github: 
-[Github](https://github.com/Vickusr/AppsilonMarineDataDB)
+[Github](https://github.com/Vickusr/AppsilonMarineDataDB) - this repo
 
 *Please remember to unzip the `ships.7z` so that the DB shows as  `ships.db` in the `data/ships.db` directory*
 
