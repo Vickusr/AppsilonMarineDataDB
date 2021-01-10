@@ -11,7 +11,7 @@ Github: [Github](https://github.com/Vickusr/AppsilonMarineDataDB)
 
 Please remember to unzip the `ships.7z` so that the DB shows as  `ships.db` in the `data/ships.db` directory
 
-shinyapps.io: [shinyapps.io](https://vickus-botha.shinyapps.io/appsilonmarinedatadb/)
+shinyapps.io: [shinyapps.io](https://vickus-botha.shinyapps.io/AppsilonMarineDataDB/)
 
 For more context on this see the **Performance Testing** heading
 
@@ -85,6 +85,6 @@ I noticed there were rare instance where shinyapps.io would run into memory cons
 So I did a bit more with with `profvis` allowing me to optimise the app for memory.
 
 However this prompted me to look into the database solution, even if it was a `SQLite` solution.
-This solution is also given here. The implementation I would say is much better.
+This solution is also given [here](https://vickus-botha.shinyapps.io/AppsilonMarineDataDB/). The implementation I would say is much better.
 
 There are thus two solution that work the same way.
