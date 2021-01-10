@@ -9,7 +9,7 @@ There is also a different solution that works with `SQLite` (this repo).
 Hosted here:
 Github: [Github](https://github.com/Vickusr/AppsilonMarineDataDB)
 
-Please remember to unzip the `ships.7z` so that the DB shows as  `ships.db` in the `data/ships.db` directory
+*Please remember to unzip the `ships.7z` so that the DB shows as  `ships.db` in the `data/ships.db` directory*
 
 shinyapps.io: [shinyapps.io](https://vickus-botha.shinyapps.io/AppsilonMarineDataDB/)
 
