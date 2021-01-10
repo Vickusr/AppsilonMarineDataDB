@@ -2,7 +2,8 @@
 My code submission for the Appsilon Marine Data
 
 My non-SQL submission is hosted here:
-[shinyapps.io](https://vickus-botha.shinyapps.io/appsilonmarinedata/)
+[shinyapps.io](https://vickus-botha.shinyapps.io/AppsilonMarineData/)
+[Github](https://github.com/Vickusr/AppsilonMarineData/)
 
 There is also a different solution that works with `SQLite` (this repo). 
 
